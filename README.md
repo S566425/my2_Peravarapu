@@ -3,3 +3,14 @@
 ###### Mumbai
 
 Mumbai is major city in *India*. It has diverse variety of culture and tradition. Main attraction of Mumbai city is ***Beaches*** and it is also well known for its ***Heritages***.Mumbai is also known as **Finance Capital** of India. Each and every place has it known significance and there are different types of ***Beaches, Cities, Monuments which attract many people to visit Mumbai***.
+
+-------------------------------------------------------
+## Ordered List
+1. Marine drive
+2. Water Sports
+3. Street Food
+    1. Vada pav
+    3. Chai
+    7. Panipuri
+    8. Rajmachawla
+4. Street Shopping
