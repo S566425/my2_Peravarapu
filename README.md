@@ -9,8 +9,6 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 1. Marine drive
 2. Water Sports
 3. Street Food
-    1. Vada pav
-    3. Chai
-    7. Panipuri
-    8. Rajmachawla
 4. Street Shopping
+
+## Unordered List
