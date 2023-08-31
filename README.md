@@ -12,3 +12,7 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 4. Street Shopping
 
 ## Unordered List
+* Vada Pav
+* Bhel Puri
+* Panipuri
+* Rajmachawla
