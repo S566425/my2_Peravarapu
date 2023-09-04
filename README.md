@@ -16,3 +16,6 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 * Bhel Puri
 * Panipuri
 * Rajmachawla
+
+------------------------------------------------
+**[MyStats] (MyStats.md)** link to the local repo 
