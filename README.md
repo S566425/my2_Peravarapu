@@ -17,5 +17,18 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 * Panipuri
 * Rajmachawla
 
-------------------------------------------------
-**[MyStats] (C:\Users\S566425\Documents\webapps-repos\my2_Peravarapu\MyStats.md)** link to the local repo 
+------------------------------------------------ 
+
+lets go to MyStats file <C:\Users\S566425\Documents\webapps-repos\my2_Peravarapu\MyStats.md>
+
+-----------------------------------------------
+
+### Creating a Table in Markdown
+In this section we are creating a table which consists of atleast 4 kinds of sports named Chess, badminton, KHO-KHO, Carroms 
+
+| Name | Reason | Time Spent |
+| ---| --- | --- |
+| Chess | Improves Thinking ability | 30 HRS |
+| Badminton | Activeness | 24 HRS |
+|KHO-KHO | Physical Growth | 10 HR |
+|Carroms | Logical Thinking | 20 HRS |
