@@ -18,4 +18,4 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 * Rajmachawla
 
 ------------------------------------------------
-**[MyStats] (MyStats.md)** link to the local repo 
+**[MyStats] (C:\Users\S566425\Documents\webapps-repos\my2_Peravarapu\MyStats.md)** link to the local repo 
