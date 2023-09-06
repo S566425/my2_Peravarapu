@@ -19,7 +19,7 @@ Mumbai is major city in *India*. It has diverse variety of culture and tradition
 
 ------------------------------------------------ 
 
-lets go to MyStats file [MyStat] <MyStats.md>
+lets go to MyStats file [MyStat](MyStats.md)
 
 -----------------------------------------------
 
