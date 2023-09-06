@@ -60,4 +60,4 @@ const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 
 console.log(strippedString);
 ```
-[Quick Link for snippet source](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
+[Quick Link for snippet source]<https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
