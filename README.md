@@ -32,3 +32,13 @@ In this section we are creating a table which consists of atleast 4 kinds of spo
 | Badminton | Activeness | 24 HRS |
 |KHO-KHO | Physical Growth | 10 HR |
 |Carroms | Logical Thinking | 20 HRS |
+
+-------------------------------------------------------------
+
+### Pithy Quotes
+
+>The important thing is not to stop questioning
+>>* Albert Einstein *
+
+>Science is the art of unraveling the mysteries of the universe, and the joy of discovery is its greatest reward
+>>* Edwin Hubble *
