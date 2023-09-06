@@ -38,7 +38,7 @@ In this section we are creating a table which consists of atleast 4 kinds of spo
 ### Pithy Quotes
 
 >The important thing is not to stop questioning
->>* Albert Einstein *
+>> *Albert Einstein*
 
 >Science is the art of unraveling the mysteries of the universe, and the joy of discovery is its greatest reward
->>* Edwin Hubble *
+>> *Edwin Hubble*
