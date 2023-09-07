@@ -47,7 +47,7 @@ In this section we are creating a table which consists of atleast 4 kinds of spo
 
 ### Code Fencing
 > How to strip HTML tags from string in JavaScript? [duplicate]
-[Stack Overflow link]<https://stackoverflow.com/questions/5002111/how-to-strip-html-tags-from-string-in-javascript>
+[Stack Overflow link] <https://stackoverflow.com/questions/5002111/how-to-strip-html-tags-from-string-in-javascript>
 
 ```
 const originalString = `
@@ -60,4 +60,4 @@ const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 
 console.log(strippedString);
 ```
-[Quick Link for snippet source]<https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
+[Quick Link for snippet source] <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
